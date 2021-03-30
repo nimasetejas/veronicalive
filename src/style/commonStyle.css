@@ -1,0 +1,15 @@
+.mytest {
+    background-color: aquamarine;
+}
+.mycenter {
+    margin: auto;
+    padding: 10px;
+    vertical-align: center;
+}
+.flex-fill{
+
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
