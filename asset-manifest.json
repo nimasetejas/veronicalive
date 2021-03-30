@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/veronicalive/static/css/main.0e40ea07.chunk.css",
+    "main.js": "/veronicalive/static/js/main.5d75310d.chunk.js",
+    "main.js.map": "/veronicalive/static/js/main.5d75310d.chunk.js.map",
+    "runtime-main.js": "/veronicalive/static/js/runtime-main.beda929d.js",
+    "runtime-main.js.map": "/veronicalive/static/js/runtime-main.beda929d.js.map",
+    "static/css/2.f91b6640.chunk.css": "/veronicalive/static/css/2.f91b6640.chunk.css",
+    "static/js/2.662caece.chunk.js": "/veronicalive/static/js/2.662caece.chunk.js",
+    "static/js/2.662caece.chunk.js.map": "/veronicalive/static/js/2.662caece.chunk.js.map",
+    "static/js/3.77149f74.chunk.js": "/veronicalive/static/js/3.77149f74.chunk.js",
+    "static/js/3.77149f74.chunk.js.map": "/veronicalive/static/js/3.77149f74.chunk.js.map",
+    "index.html": "/veronicalive/index.html",
+    "static/css/2.f91b6640.chunk.css.map": "/veronicalive/static/css/2.f91b6640.chunk.css.map",
+    "static/css/main.0e40ea07.chunk.css.map": "/veronicalive/static/css/main.0e40ea07.chunk.css.map",
+    "static/js/2.662caece.chunk.js.LICENSE.txt": "/veronicalive/static/js/2.662caece.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.beda929d.js",
+    "static/css/2.f91b6640.chunk.css",
+    "static/js/2.662caece.chunk.js",
+    "static/css/main.0e40ea07.chunk.css",
+    "static/js/main.5d75310d.chunk.js"
+  ]
+}
